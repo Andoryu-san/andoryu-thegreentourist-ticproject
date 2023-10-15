@@ -1,0 +1,1 @@
+/* Code fully written by Andoryu (me) */
